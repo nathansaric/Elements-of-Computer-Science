@@ -160,4 +160,4 @@ def main():
     clear()
     drawMyArt()
 
-main()
+main() 
