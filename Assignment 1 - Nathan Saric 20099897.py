@@ -1,4 +1,4 @@
-# ASSIGNMENT 1 - NATHAN SARIC - 20099897 - 07/08/2019
+# NATHAN SARIC - 07/08/2019
 # This program is a simulation of the word game Blink! A game in which players take turns adding a single letter to a growing word fragment,
 # trying not to be the one to complete a valid English word. A player also loses if the letter they add to the growing fragment is not
 # the beginning of an actual English word. 
