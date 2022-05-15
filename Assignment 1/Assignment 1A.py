@@ -39,6 +39,5 @@ def main():
     # Display the results to the user
     print("The monthly payment for your mortgage is ${0:.2f}".format(monthly_payment))
     print("The total interest paid over the entire term is ${0:.2f}".format(total_interest))
-    print("Thank you for using Nathan's Mortgage Calculator!")
 
 main()
