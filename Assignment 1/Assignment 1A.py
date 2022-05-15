@@ -1,4 +1,4 @@
-# NATHAN SARIC - 05/17/2019
+# NATHAN SARIC - 05/17/2019 
 
 # This program calculates the monthly payment and the total interest paid
 # over the entire term when given the principal amount, the length of the term,
