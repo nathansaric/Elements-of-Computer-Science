@@ -1,4 +1,4 @@
-# NATHAN SARIC - 06/07/2019
+# NATHAN SARIC - 06/07/2019 
 
 # This program analyzes three text files, each containing a speech given by a government leader,
 # and returns several key information to the user including: the number of characters, sentences,
