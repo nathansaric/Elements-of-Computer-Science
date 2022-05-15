@@ -1,4 +1,4 @@
-# NATHAN SARIC - 05/17/2019
+# NATHAN SARIC - 05/17/2019 
 
 # This program is a postage rate calculator which calculates the postage rate depending on the destination country,
 # the size of the letter, and the weight of the letter -- supplied by the user.
